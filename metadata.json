@@ -1,0 +1,7 @@
+{
+  "name": "Ironstone Athletic Club",
+  "description": "Premier independent gym and athletic training facility featuring strength, functional conditioning, personal coaching, and recovery amenities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
